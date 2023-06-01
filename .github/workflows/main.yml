@@ -27,7 +27,7 @@ jobs:
       env:
         DEPLOYPATH: www/smartlab/build-${{ github.sha }}/
       run: |
-        sshpass -p ${{ secrets.PASS }} sftp -P ${{ secrets.PORT }} ${{ secrets.USER }}@${{ secrets.HOST }} <<END
+        sshpass -p ${{ secrets.PASS }} sftp -v -P ${{ secrets.PORT }} ${{ secrets.USER }}@${{ secrets.HOST }} <<END
           mkdir $DEPLOYPATH
           put -r _site/* $DEPLOYPATH
         END
