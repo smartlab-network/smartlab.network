@@ -29,5 +29,5 @@ jobs:
       run: |
         sshpass -p ${{ secrets.PASS }} sftp -P ${{ secrets.PORT }} ${{ secrets.USER}}@${{ secrets.HOST }} <<END
           mkdir $DEPLOYPATH
-          put -r _sites/* $DEPLOYPATH
+          put -r _site/* $DEPLOYPATH
         END
