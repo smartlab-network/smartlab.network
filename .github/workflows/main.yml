@@ -28,5 +28,5 @@ jobs:
         port: ${{ secrets.PORT }}
         username: ${{ secrets.USER }}
         password: ${{ secrets.PASS }}
-        localPath: /home/runner/work/smartlab.network/smartlab.network/_site/*
+        localPath: /home/runner/work/smartlab.network/smartlab.network/_site/
         remotePath: ./www/smartlab/build-${{ github.sha }}/
