@@ -25,7 +25,7 @@ jobs:
     
     - name: Upload
       env:
-        DEPLOYPATH: www/smartlab/build-{{ github.sha }}/
+        DEPLOYPATH: www/smartlab/build-${{ github.sha }}/
       run: |
         sshpass -p ${{ secrets.PASS }} sftp -P ${{ secrets.PORT }} ${{ secrets.USER}}@${{ secrets.HOST }} <<END
           mkdir $DEPLOYPATH
