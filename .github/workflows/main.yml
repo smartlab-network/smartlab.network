@@ -12,8 +12,6 @@ jobs:
 
     - name: Setup Environment.
       run: |
-        sudo apt-get update
-        sudo apt-get install -y sshpass
         bundle install
 
     - name: Build site
@@ -24,10 +22,11 @@ jobs:
       run: echo "I'm merging!"
 
     - name: Upload
-      env:
-        DEPLOYPATH: www/smartlab/build-${{ github.sha }}/
-      run: |
-        sshpass -p ${{ secrets.PASS }} sftp -v -P ${{ secrets.PORT }} ${{ secrets.USER }}@${{ secrets.HOST }} <<END
-          mkdir $DEPLOYPATH
-          put -r _site/* $DEPLOYPATH
-        END
+      uses: Creepios/sftp-action@v1.0.3
+      with:
+        host: ${{ secrets.HOST }}
+        port: ${{ secrets.PORT }}
+        username: ${{ secrets.USER }}
+        password: ${{ secrets.PASS }}
+        localPath: _site/*
+        remotePath: www/smartlab/build-${{ github.sha }}/
