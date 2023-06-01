@@ -9,25 +9,25 @@ jobs:
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2'
-    
+
     - name: Setup Environment.
       run: |
         sudo apt-get update
         sudo apt-get install -y sshpass
         bundle install
-    
+
     - name: Build site
       run: JEKYLL_ENV=production bundle exec jekyll build
-      
+
     - name: Publish on merge
       if: ${{ github.ref == 'refs/heads/main' }}
       run: echo "I'm merging!"
-    
+
     - name: Upload
       env:
         DEPLOYPATH: www/smartlab/build-${{ github.sha }}/
       run: |
-        sshpass -p ${{ secrets.PASS }} sftp -P ${{ secrets.PORT }} ${{ secrets.USER}}@${{ secrets.HOST }} <<END
+        sshpass -p ${{ secrets.PASS }} sftp -P ${{ secrets.PORT }} ${{ secrets.USER }}@${{ secrets.HOST }} <<END
           mkdir $DEPLOYPATH
           put -r _site/* $DEPLOYPATH
-        END
+      END
