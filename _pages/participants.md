@@ -12,15 +12,14 @@ nav: true
 		  <p>{{page.subtitle}}</p>
         </header>
 
-        <article>
+        <article style="padding-bottom: 5ex;">
           <div class="profile float-{%- if page.align == 'left' -%}left{%- else -%}right{%- endif -%}">
               {%- assign image_path = page.image | prepend: 'assets/img/' -%}
 
-              {% include figure.html 
-                path=image_path 
+              {% include figure.html
+                path=image_path
                 class="img-fluid z-depth-1 rounded"
                 alt=page.image -%}
-				
 
             {%- if page.contact %}
             <div class="address">
@@ -29,11 +28,10 @@ nav: true
             {%- endif %}
           </div>
 
-          <div class="clearfix">
+          <div class="clearfix" style="text-align: justify;">
             {{ page.content }}
           </div>
-		  
+		  <br/>
 	</article>
 </div>
-{%- endfor %} 
-
+{%- endfor %}
