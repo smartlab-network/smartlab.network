@@ -5,7 +5,7 @@ subtitle: Institut für Technische Chemie (TCI)
 align: right
 image: smartlab-network-logo.png
 contact: >
-  Mr. X
+  Prof. Sascha Beutel
   
 ---
 
