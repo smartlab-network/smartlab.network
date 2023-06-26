@@ -2,7 +2,7 @@
 title: Universitätsmedizin Göttingen
 subtitle: Institut für Mechatronische Systeme (IMES)
 
-image: smartlab-network-logo.png
+image: budde.jpg
 align: left
 contact: >
   Leon Budde
