@@ -2,7 +2,7 @@
 title: Universität Greifswald
 subtitle: Ai4life & Kiwi Biolabs
 
-image: doerr.jpg
+image: doerr_bw.jpg
 align: left
 contact: >
   Dr. Mark Dörr

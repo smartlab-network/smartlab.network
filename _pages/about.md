@@ -7,16 +7,12 @@ permalink: /
 profile:
 align: right
 image: smartlab-network-logo.png
-tags:
-	smartlab
-	laborautomatisierung
-	labautomation
 
-news: true  # includes a list of news items
+#news: true  
 
 ---
 
-Das smartlab.network wurde gegrndet um...
+Automatisierung hat viele Facetten und betrifft sowohl Material als auch Datenflüsse. 
 
 
 <h1>contact</h1>
