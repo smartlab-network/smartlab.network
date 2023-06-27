@@ -2,6 +2,8 @@
  "papers"
  (lambda ()
    (LaTeX-add-bibitems
-    "BeutelLenk22a"))
+    "BeutelLenk22a"
+    "Soeldner22a"
+    ))
  '(or :bibtex :latex))
 
