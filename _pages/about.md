@@ -8,11 +8,10 @@ profile:
 align: right
 image: smartlab-network-logo.png
 
-#news: true  
-
 ---
 
-Automatisierung hat viele Facetten und betrifft sowohl Material als auch Datenflüsse. 
+
+Automatisierung hat viele Facetten und betrifft sowohl Material als auch Datenfluesse. 
 
 
 <h1>contact</h1>
