@@ -11,4 +11,4 @@ contact: >
 
 Kiwi: [Page](https://kiwi-biolab.de/)
 </br>
-Lara: [Page] (https://lara.uni-greifswald.de/)
+Lara: [Page](https://lara.uni-greifswald.de/)
