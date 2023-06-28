@@ -1,9 +1,9 @@
 ---
 layout: home
 title: home
-permalink: /
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: smartlab.network
+permalink: /home
+nav: true
 profile:
   align: right
   image: smartlab-network-logo.png
