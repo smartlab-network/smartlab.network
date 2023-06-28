@@ -1,5 +1,5 @@
 ---
-title: Universitätsmedizin Göttingen
+title: Leibniz Unversität HAnnover
 subtitle: Institut für Mechatronische Systeme (IMES) & Smartlab Hannover
 
 image: budde.jpg
