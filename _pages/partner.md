@@ -1,7 +1,7 @@
 ---
 layout: default
 title: partner
-permalink: /participants
+permalink: /partner
 nav: true
 ---
 
