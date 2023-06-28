@@ -2,7 +2,8 @@
 layout: default
 title: contact
 permalink: /
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Contact and Impressum
+nav: true
 
 profile:
   align: right
