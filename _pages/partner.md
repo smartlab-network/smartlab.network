@@ -5,7 +5,7 @@ permalink: /participants
 nav: true
 ---
 
-{% picture logo_projektion.png %}
+{% image logo_projektion.png %}
 
 
 
