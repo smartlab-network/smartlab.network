@@ -7,7 +7,7 @@ permalink: /
 profile:
 align: right
 image: smartlab-network-logo.png
-
+#news: true
 ---
 
 

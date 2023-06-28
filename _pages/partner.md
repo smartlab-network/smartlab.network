@@ -1,6 +1,6 @@
 ---
 layout: default
-title: participants
+title: partner
 permalink: /participants
 nav: true
 ---

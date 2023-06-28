@@ -1,7 +1,7 @@
 ---
 layout: default
-title: participants
-permalink: /participants
+title: projects
+permalink: /projects
 nav: true
 ---
 
