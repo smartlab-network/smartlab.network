@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: participants
@@ -5,7 +6,7 @@ permalink: /participants
 nav: true
 ---
 
-#{% picture logo_projektion.jpg %}
+
 
 
 
