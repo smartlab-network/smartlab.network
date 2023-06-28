@@ -5,6 +5,7 @@ permalink: /projects
 nav: true
 ---
 
+Ongoing Projects
 
 {%- for page in site.projects -%}
   <div class="post">
