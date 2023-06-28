@@ -1,10 +1,11 @@
-
 ---
 layout: default
 title: participants
 permalink: /participants
 nav: true
 ---
+
+participants:
 
 {%- for page in site.participants -%}
   <div class="post">
