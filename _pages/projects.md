@@ -5,10 +5,6 @@ permalink: /projects
 nav: true
 ---
 
-{% picture logo_projektion.png %}
-
-
-
 
 {%- for page in site.projects -%}
   <div class="post">

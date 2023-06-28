@@ -5,11 +5,6 @@ permalink: /participants
 nav: true
 ---
 
-{% image logo_projektion.png %}
-
-
-
-
 {%- for page in site.partner -%}
   <div class="post">
         <header class="post-header">

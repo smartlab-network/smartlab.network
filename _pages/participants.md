@@ -6,11 +6,6 @@ permalink: /participants
 nav: true
 ---
 
-
-
-
-
-
 {%- for page in site.participants -%}
   <div class="post">
         <header class="post-header">
