@@ -10,7 +10,7 @@ nav: true
 {%- for page in site.participants -%}
   <div class="post">
         <header class="post-header">
-          <h1 class="post-title">{{page.title}}</h1>
+          <h2 class="post-title">{{page.title}}</h2>
 		  <p>{{page.subtitle}}</p>
         </header>
 

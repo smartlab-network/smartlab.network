@@ -7,7 +7,7 @@ nav: true
 
 <h1> Our Partners: </h1>
 
-{%- for page in site.participants -%}
+{%- for page in site.partners -%}
   <div class="post">
         <header class="post-header">
           <h1 class="post-title">{{page.title}}</h1>
