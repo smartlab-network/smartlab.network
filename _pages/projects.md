@@ -1,6 +1,7 @@
 ---
 layout: default
 title: projects
+subtitle: Our ongoing and passed projects
 permalink: /projects
 nav: true
 ---
