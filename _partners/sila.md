@@ -8,7 +8,7 @@ image: sila.jpg
 align: left
 contact: >  
   Tim Meyer
-  tim.meyer@sila-standard.com
+  tim.meyer(at)sila-standard.com
   
 ---
 
