@@ -5,7 +5,7 @@ image: labstuff.jpg
 align: left
 contact: >
   Matthias Sievert
-  Info@labstuff.eu  
+  Info(at)labstuff.eu  
 ---
 
 [Page](https://www.labstuff.eu)

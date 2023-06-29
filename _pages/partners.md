@@ -28,10 +28,13 @@ nav: true
               {{ page.contact }}
             </div>
             {%- endif %}
+
           </div>
 
           <div class="clearfix" style="text-align: justify;">
-            {{ page.content }}
+            {{ page.contact }}
+            {{ page.url }}
+            {{ page.content }}                          
           </div>
 		  <br/>
 	</article>
