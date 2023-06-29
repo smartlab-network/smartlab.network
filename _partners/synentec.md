@@ -3,13 +3,16 @@ title: Synentec
 subtitle: Laborautomatisierung
 
 image: synentec.jpg
-url: https://synentec.com
+homepage: https://synentec.com
+name: Matthias Pirsch
+email: info(at)synentec.com
+
+
 
 align: left
 contact: >
   Matthias Pirsch
-  info(at)synentec.com
-  [Homepage](https://synentec.com)
+  info(at)synentec.com  
   
 ---
 

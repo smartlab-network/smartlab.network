@@ -24,7 +24,8 @@ nav: true
         {%- endif %}
 
         <div class="clearfix" style="text-align: justify;">         
-            
+            hompage is:
+            <p>[homepage]({{page.homepage}})
             <p>{{ page.contact }}
             <p>{{ page.url }}
             <p>{{ page.content }}                          
