@@ -1,19 +1,19 @@
 ---
 layout: default
-title:  about
-permalink: /about
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+title:  home
+permalink: /
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+nav: true
 profile:
-align: right
-image: logo-projection.jpg
-news: false
+  align: right
+  image: smartlab-network-logo.png
+
+news: true
 ---
 
+<img src="assets/img/logo-projetion.jpg" alt="myImage">
 
-Automatisierung hat viele Facetten und betrifft sowohl Material als auch Datenfluesse. 
 
+Homepage
 
-<h1>contact</h1>
-
-<h1>Impressum</h1>
+Das smartlab.network wurde gegr&uuml;ndet um...
