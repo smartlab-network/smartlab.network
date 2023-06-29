@@ -15,19 +15,14 @@ nav: true
         </header>
 
         <article style="padding-bottom: 5ex;">
-          <div class="profile float-{%- if page.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+          <div class="profile float-left">
               {%- assign image_path = page.image | prepend: 'assets/img/' -%}
 
-              {% include figure.html
-                path=image_path
-                class="img-fluid z-depth-1 rounded"
-                alt=page.image -%}
+              {% include figure.html path=image_path  class="img-fluid z-depth-1 rounded" alt=page.image -%}
 
-            {%- if page.contact %}
-            <div class="address">
-              {{ page.contact }}
-            </div>
-            {%- endif %}
+          {%- if page.contact %} 
+            <div class="address"> {{ page.contact }}  </div>
+          {%- endif %}
 
           </div>
 
