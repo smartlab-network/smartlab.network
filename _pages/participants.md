@@ -5,8 +5,7 @@ permalink: /participants
 nav: true
 ---
 
-
-
+<h1>Participants in the smartlab.network:</h1>
 
 {%- for page in site.participants -%}
   <div class="post">
