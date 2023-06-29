@@ -12,22 +12,24 @@ nav: true
 {%- for page in site.partners -%}
  <div class="post">
         <header class="post-header">
-          <h2 class="post-title">{{page.title}}</h2>
-		  <p>{{page.subtitle}}</p>
+          <h2 class="post-title">{{page.title}} - {{page.subtitle}}</h2>		  
         </header>
 
         <article style="padding-bottom: 5ex;">
-          <div class="profile float-{%- if page.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+          <div class="profile float-left">
               {%- assign image_path = page.image | prepend: 'assets/img/' -%}
 
               {% include figure.html
                 path=image_path
                 class="img-fluid z-depth-1 rounded"
-                alt=page.image -%}            
+                alt=page.image
+                max-width=200 -%}            
           </div>
           {%- if page.contact %}
             <div class="address">
-              {{ page.contact }}
+              {{ page.homepage }}<br/>
+              {{ page.name }}<br/>
+              {{ page.email }}
             </div>
           {%- endif %}
           
