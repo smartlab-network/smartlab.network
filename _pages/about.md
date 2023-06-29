@@ -14,7 +14,7 @@ news: true
 <img src="assets/img/logo-projetion.jpg" alt="myImage">
 
 
-Automatisierung stellt akademische Forschungslabore vor große Herausforderungen da die notwendige Expertise häufig weder in-Haus vorhanden ist noch eingekauft werden kann.
-Um diesen Bedarf zu schliessen stellen vor allem technische Hochschulen vermehrt Ausbildungsmöglichkeiten und Abschlüsse im bereich Laborautomatisierung zur Verfügung.
+Automatisierung stellt akademische Forschungslabore vor große Herausforderungen da die notwendige Expertise h&auml;ufig weder in-Haus vorhanden ist noch eingekauft werden kann.
+Um diesen Bedarf zu schliessen stellen vor allem technische Hochschulen vermehrt Ausbildungsm&ouml;glichkeiten und Abschl&uuml;sse im bereich Laborautomatisierung zur Verf&uuml;gung.
 Ziel des smartlab.networks ist es die ausbildenden Hochschulen und Anwender sowie  Hardware- und Softwareanbeiter zu vernetzen. Ziel ist es sowohl die Ausbildung effizienter
-und anwendungsorientierter zu machen als auch Einstiegshürden für Forschungslabore zu senken.
+und anwendungsorientierter zu machen als auch Einstiegsh&uuml;rden für Forschungslabore zu senken.
