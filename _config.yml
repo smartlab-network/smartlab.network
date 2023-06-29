@@ -159,6 +159,10 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  partners:
+    defaults:
+      layout: post
+    output: true
   participants:
     defaults:
       layout: post
