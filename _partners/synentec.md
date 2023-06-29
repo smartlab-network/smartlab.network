@@ -9,6 +9,7 @@ align: left
 contact: >
   Matthias Pirsch
   info(at)synentec.com
+  [Homepage](https://synentec.com)
   
 ---
 
