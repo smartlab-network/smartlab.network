@@ -34,6 +34,16 @@ nav: true
               </div>
             {%- endif %}
 
+            {%- if page.date %}
+              
+                <div class="address">
+                  {{ page.date }}
+                  {%- if page.time %}
+                     - {{ page.time }}
+                  {%- endif %}                    
+                </div>
+            {%- endif %}
+
           </div>
 
           <div class="clearfix" style="text-align: justify;">
