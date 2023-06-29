@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
 align: right
-image: logo_projection.jpg
+image: logo-projection.jpg
 news: false
 ---
 
