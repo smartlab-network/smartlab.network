@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  home
-permalink: /
+permalink: /home
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 nav: true
 profile:
