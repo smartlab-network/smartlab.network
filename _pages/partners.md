@@ -12,8 +12,7 @@ nav: true
 {%- for page in site.partners -%}
  <div class="post">
         <header class="post-header">
-          <h2 class="post-title">{{page.title}}</h2>
-		  <p>{{page.subtitle}}</p>
+          <h2 class="post-title">{{page.title}} - {{page.subtitle}}</h2>		  
         </header>
 
         <article style="padding-bottom: 5ex;">
@@ -28,7 +27,9 @@ nav: true
           </div>
           {%- if page.contact %}
             <div class="address">
-              {{ page.contact }}
+              {{ page.homepage }}<br/>
+              {{ page.name }}<br/>
+              {{ page.email }}
             </div>
           {%- endif %}
           
