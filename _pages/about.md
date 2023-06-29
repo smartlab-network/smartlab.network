@@ -1,12 +1,12 @@
 ---
 layout: about
 title:  about
-permalink: /
+permalink: /about
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
 align: right
-image: smartlab-network-logo.png
+image: logo_projection.jpg
 news: false
 ---
 

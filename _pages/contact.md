@@ -1,7 +1,7 @@
 ---
 layout: default
 title: contact
-permalink: /
+permalink: /contact
 subtitle: Contact and Impressum
 nav: true
 
