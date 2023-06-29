@@ -9,6 +9,7 @@ contact: >
   mark.doerr(at)uni-greifswald.de
 ---
 
-Kiwi: [Page](https://kiwi-biolab.de/)
+[Kiwi Biolab](https://kiwi-biolab.de/)
 </br>
-Lara: [Page](https://lara.uni-greifswald.de/)
+[Lara](https://lara.uni-greifswald.de/)
+

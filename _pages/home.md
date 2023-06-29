@@ -11,5 +11,9 @@ profile:
 news: true
 ---
 
+<img src="/assets/img/logo-projetion.jpg" alt="">
+
+
+Homepage
 
 Das smartlab.network wurde gegr&uuml;ndet um...
