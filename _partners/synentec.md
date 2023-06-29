@@ -7,8 +7,6 @@ homepage: https://synentec.com
 name: Matthias Pirsch
 email: info(at)synentec.com
 
-
-
 align: left
 contact: >
   Matthias Pirsch
