@@ -13,7 +13,7 @@ news: true
 
 <figure>
   <picture>
-    <img   src="/assets/img/logo-chrome.jpg" >
+    <img   src="/assets/img/logo-chrome.jpg" max-width=200 >
   </picture>  
 </figure>
 

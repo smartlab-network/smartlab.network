@@ -5,7 +5,13 @@ permalink: /participants
 nav: true
 ---
 
-<h1>Participants in the smartlab.network:</h1>
+<figure>
+  <picture>
+    <img   src="/assets/img/logo-projection.jpg" max-width=200 >
+  </picture>  
+</figure>
+
+
 
 {%- for page in site.participants -%}
   <div class="post">
