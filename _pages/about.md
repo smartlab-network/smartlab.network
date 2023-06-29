@@ -11,12 +11,11 @@ profile:
 news: true
 ---
 
- {%- assign image_path = 'logo-chrome.jpg' | prepend: 'assets/img/' -%}
-
- {% include figure.html
-                path=image_path
-                class="img-fluid z-depth-1 rounded"
-                alt=page.image -%}
+<figure>
+  <picture>
+    <img   src=assets/logo-chrome.jpg >
+  </picture>  
+</figure>
 
 
 
