@@ -5,7 +5,6 @@ title: talks
 description: Talks udn Vorlesungen im Smartlab.
 years: [2023]
 nav: true
-nav_order: 1
 ---
 <!-- _pages/publications.md -->
 <div class="talks">
