@@ -5,6 +5,7 @@ permalink: /partner
 nav: true
 ---
 Our Partners:
+
 {%- for page in site.partner -%}
   <div class="post">
         <header class="post-header">
