@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 permalink: /talks
 title: talks
+subtitle: Talks und Vorlesungen im Smartlab Network.
 description: Talks und Vorlesungen im Smartlab Network.
 years: [2023]
 nav: true
