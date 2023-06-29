@@ -27,12 +27,12 @@ nav: true
           </div>
           {%- if page.contact %}
             <div class="address">
-              {{ page.homepage }}<br/>
-              {{ page.name }}<br/>
-              {{ page.email }}
+              
+              Contact: {{ page.contact }}<br/>
+              eMail: {{ page.email }}<br/>
+              web: [page.title]({{ page.homepage }})
             </div>
-          {%- endif %}
-          
+          {%- endif %}          
           <div class="clearfix" style="text-align: justify;">
             {{ page.content }}
           </div>
