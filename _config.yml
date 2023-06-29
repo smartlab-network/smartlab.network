@@ -171,6 +171,10 @@ collections:
     defaults:
       layout: post
     output: false
+  talks:
+    defaults:
+      layout: post
+    output: false
   
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
