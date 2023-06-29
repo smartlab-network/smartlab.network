@@ -1,11 +1,12 @@
 ---
 layout: page
-permalink: /talks/
+permalink: /talks
 title: talks
-description: Talks udn Vorlesungen im Smartlab.
+description: Talks und Vorlesungen im Smartlab Network.
 years: [2023]
 nav: true
 ---
+
 <!-- _pages/publications.md -->
 <div class="talks">
 

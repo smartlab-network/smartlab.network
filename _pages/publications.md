@@ -1,11 +1,10 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /publications
 title: publications
 description: publications relavant to the SmartLab network.
 years: [2022]
 nav: true
-nav_order: 1
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
