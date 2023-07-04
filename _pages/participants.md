@@ -10,7 +10,7 @@ nav: true
    path='assets/img/logo-projection.jpg'
    class="img-fluid z-depth-1 rounded"
    alt=page.image
-   max-width=200 -%}
+   max-width=50 -%}
 
 
 {%- for page in site.participants -%}
