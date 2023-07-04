@@ -5,17 +5,12 @@ permalink: /participants
 nav: true
 ---
 
-<figure>
-  <picture>
-    <img   src="/assets/img/logo-projection.jpg" max-width=200 >
-  </picture>  
-</figure>
 
- {% include figure.html
-                path='assets/img/logo-projection.jpg'
-                class="img-fluid z-depth-1 rounded"
-                alt=page.image
-                max-width=200 -%}
+ {%- include figure.html
+   path='assets/img/logo-projection.jpg'
+   class="img-fluid z-depth-1 rounded"
+   alt=page.image
+   max-width=200 -%}
 
 
 {%- for page in site.participants -%}

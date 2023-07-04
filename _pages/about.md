@@ -11,11 +11,11 @@ profile:
 news: true
 ---
 
-<figure>
-  <picture>
-    <img   src="/assets/img/logo-chrome.jpg" max-width=200 >
-  </picture>  
-</figure>
+{%- include figure.html
+   path='assets/img/logo-chrome.jpg'
+   class="img-fluid z-depth-1 rounded"
+   alt=page.image
+   max-width=200 -%}
 
 
 
