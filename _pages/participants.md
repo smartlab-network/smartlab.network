@@ -11,8 +11,6 @@ nav: true
   </picture>  
 </figure>
 
-
-
 {%- for page in site.participants -%}
   <div class="post">
         <header class="post-header">
@@ -27,7 +25,8 @@ nav: true
               {% include figure.html
                 path=image_path
                 class="img-fluid z-depth-1 rounded"
-                alt=page.image -%}
+                alt=page.image
+                max-width=200 -%}
 
             {%- if page.contact %}
             <div class="address">

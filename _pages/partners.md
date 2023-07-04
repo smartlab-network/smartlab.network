@@ -34,8 +34,7 @@ nav: true
                 max-width=200 -%}            
           </div>
           {%- if page.contact %}
-            <div class="address">
-              
+            <div class="address">              
               Contact: {{ page.contact }}<br/>
               eMail: {{ page.email }}<br/>
               web: [{{page.title}}]({{ page.homepage }})
