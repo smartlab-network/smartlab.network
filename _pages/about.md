@@ -15,7 +15,7 @@ news: true
    path='assets/img/logo-chrome.jpg'
    class="img-fluid z-depth-1 rounded"
    alt=page.image
-   max-width=200 -%}
+   max-width=50 -%}
 
 
 
