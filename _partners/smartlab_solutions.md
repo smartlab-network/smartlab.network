@@ -1,9 +1,9 @@
 ---
 title: smartlab Solutions
-subtitle: Labortechnik
-image: labstuff.jpg
+subtitle: Laborautomatisierung
+image: smartlab_solutions.jpg
 align: left
 contact: Felix Lenk
-email: Info(at)labstuff.eu  
+email: info(at)smartlab-solutions.de  
 homepage: https://www.smartlab-solutions.de/
 ---
