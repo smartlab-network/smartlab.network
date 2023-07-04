@@ -5,5 +5,5 @@ image: labstuff.jpg
 align: left
 contact: Felix Lenk
 email: Info(at)labstuff.eu  
-homepage: https://www.labstuff.eu
+homepage: https://www.smartlab-solutions.de/
 ---
