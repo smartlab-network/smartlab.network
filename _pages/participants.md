@@ -6,14 +6,14 @@ nav: true
 ---
 
 
-{%- include figure.html
+{% include figure.html
    path='assets/img/logo-projection.jpg'
    class="img-fluid z-depth-1 rounded"
    alt=page.image
-   max-width=50 -%}
+   width=300 %}
 
 
-{%- for page in site.participants -%}
+{% for page in site.participants %}
   <div class="post">
         <header class="post-header">
           <h2 class="post-title">{{page.title}}</h2>

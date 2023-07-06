@@ -10,6 +10,7 @@ contact: >
 ---
 
 [Kiwi Biolab](https://kiwi-biolab.de/)
-</br>
+
+<br/>
 [Lara](https://lara.uni-greifswald.de/)
 
