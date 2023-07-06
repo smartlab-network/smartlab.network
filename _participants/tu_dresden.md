@@ -2,7 +2,7 @@
 title: Technische Universität Dresden
 subtitle: Smartlab-Systeme
 
-image: otto.png
+image: otto.jpg
 align: left
 contact: >
    Dipl.-Ing. Christoph Otto 

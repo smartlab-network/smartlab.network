@@ -4,6 +4,7 @@ title:  contact
 permalink: /contact
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 nav: true
+nav_pos: 1
 
 profile:
 align: right
