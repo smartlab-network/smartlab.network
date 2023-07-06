@@ -2,8 +2,8 @@
 layout: default
 title:  home
 permalink: /
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-nav: true
+
+nav: false
 profile:
   align: right
   image: smartlab-network-logo.png

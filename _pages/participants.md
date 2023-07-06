@@ -6,7 +6,7 @@ nav: true
 ---
 
 
- {%- include figure.html
+{%- include figure.html
    path='assets/img/logo-projection.jpg'
    class="img-fluid z-depth-1 rounded"
    alt=page.image
@@ -30,11 +30,11 @@ nav: true
                 alt=page.image
                 max-width=200 -%}
 
-            {%- if page.contact %}
+            {%- if page.contact -%}
             <div class="address">
               {{ page.contact }}
             </div>
-            {%- endif %}
+            {%- endif -%}
           </div>
 
           <div class="clearfix" style="text-align: justify;">
