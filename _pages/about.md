@@ -2,13 +2,7 @@
 layout: default
 title:  home
 permalink: /
-
 nav: false
-profile:
-  align: right
-  image: smartlab-network-logo.png
-
-news: true
 ---
 
 {%- include figure.html
