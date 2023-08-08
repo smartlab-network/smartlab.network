@@ -11,14 +11,13 @@ nav: true
     path='assets/img/logo-projection.jpg'
     class="img-fluid z-depth-1 rounded"
     alt=logo.jpg
-    width=300 %}            
-
+    width=300 %}
 
 
 {% for page in site.partners %}
  <div class="post">
         <header class="post-header">
-          <h2 class="post-title">{{page.title}} - {{page.subtitle}}</h2>		  
+          <h2 class="post-title">{{page.title}} - {{page.subtitle}}</h2>
         </header>
 
         <article style="padding-bottom: 5ex;">
@@ -29,15 +28,15 @@ nav: true
                 path=image_path
                 class="img-fluid z-depth-1 rounded"
                 alt=page.image
-                max-width=200 -%}            
+                max-width=200 -%}
           </div>
           {% if page.contact %}
-            <div class="address">              
+            <div class="address">
               Contact: {{ page.contact }}<br/>
               eMail: {{ page.email }}<br/>
-              web: [{{page.title}}]({{ page.homepage }})
+              web: <a href="{{page.homepage}}">{{page.title}}</a>
             </div>
-          {% endif %}          
+          {% endif %}
           <div class="clearfix" style="text-align: justify;">
             {{ page.content }}
           </div>
