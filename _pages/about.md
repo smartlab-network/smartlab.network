@@ -25,7 +25,7 @@ Ziel des smartlab.networks ist es die ausbildenden Hochschulen und Anwender sowi
 und anwendungsorientierter zu machen als auch Einstiegsh&uuml;rden für Forschungslabore zu senken.
 
 {%- include figure.html
-   path='assets/img/arbeitszelle.jpg'
+   path='assets/img/arbeitszelle.png'
    class="img-fluid z-depth-1 rounded"
    alt=page.image
    max-width=200px -%}
