@@ -1,5 +1,5 @@
 ---
-title: Fachhochschule Nord-West Schweiz
+title: Fachhochschule Nordwestschweiz
 subtitle: Precision Pharmaceuticals 
 
 image: mosbacher.jpg
