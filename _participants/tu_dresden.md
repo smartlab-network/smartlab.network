@@ -1,5 +1,5 @@
 ---
-title: Technische Universität Dresden TUD
+title: Technische Universität Dresden (TUD) 
 subtitle: Smartlab-Systeme
 
 image: otto.png
