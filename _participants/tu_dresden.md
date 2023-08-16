@@ -1,5 +1,5 @@
 ---
-title: Technische Universität Dresden
+title: Technische Universität Dresden TUD
 subtitle: Smartlab-Systeme
 
 image: otto.png
@@ -11,4 +11,4 @@ contact: >
 
 [Page](https://tu-dresden.de/ing/maschinenwesen/int/das-institut/bioverfahrenstechnik-biotechnologie/SmartLab-Systeme)
 
-Hello world 
+
