@@ -23,4 +23,3 @@ und anwendungsorientierter zu machen als auch Einstiegsh&uuml;rden für Forschun
    class="img-fluid z-depth-1 rounded"
    alt=page.image
    width=200 %}
-
