@@ -12,6 +12,8 @@ nav: true
 		  <p>{{page.subtitle}}</p>
         </header>
 
+
+
         <article style="padding-bottom: 5ex;">
           <div class="profile float-{%- if page.align == 'left' -%}left{%- else -%}right{%- endif -%}">
               {%- assign image_path = page.image | prepend: 'assets/img/' -%}
@@ -21,6 +23,13 @@ nav: true
                 class="img-fluid z-depth-1 rounded"
                 alt=page.image
                 max-width=200 -%}
+
+            {%- if page.contact -%}
+            <div class="address">
+              {{ page.contact }}
+            </div>
+            {%- endif -%}
+
 
           </div>
 
