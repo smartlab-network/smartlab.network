@@ -5,14 +5,6 @@ permalink: /participants
 nav: true
 ---
 
-
-{% include figure.html
-   path='assets/img/logo-projection.jpg'
-   class="img-fluid z-depth-1 rounded"
-   alt=page.image
-   width=300 %}
-
-
 {% for page in site.participants %}
   <div class="post">
         <header class="post-header">
@@ -44,7 +36,12 @@ nav: true
           <div class="clearfix" style="text-align: justify;">
             {{ page.content }}
           </div>
-		  <br/>
+
+          {%- if page.contact -%}
+          <div class="address">
+            {{ page.contact }}
+          </div>
+          {%- endif -%}
 	</article>
 </div>
 {%- endfor %}

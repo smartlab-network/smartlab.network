@@ -1,5 +1,5 @@
 ---
-title: Fachhochschule Nord-West Schweiz
+title: Fachhochschule Nordwestschweiz
 subtitle: Precision Pharmaceuticals 
 
 image: mosbacher.jpg
@@ -9,4 +9,4 @@ contact: >
   johannes.mosbacher(at)fhnw.ch
 ---
 
-[Page](https://www.fhnw.ch/de/personen/johannes-mosbacher)
+[Page](https://www.fhnw.ch/de/die-fhnw/hochschulen/lifesciences/institut-fuer-pharma-technology)
