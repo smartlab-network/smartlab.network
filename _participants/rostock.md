@@ -6,7 +6,10 @@ image: thurow_bw.jpg
 align: left
 contact: >
   Prof. Dr. Ing. habil. Kerstin Thurow
-  kerstin.thurow(at)uni-rostock.de
+  kerstin.thurow(at)celisca.de
 ---
 
-[Page](https://pharmacology.umg.eu/research/meyer-lab/)
+[CELISCA](www.celisca.de)
+<br/>
+[Kerstin Thurow](www.kerstinthurow.de)
+
