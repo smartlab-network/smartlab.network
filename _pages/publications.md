@@ -3,7 +3,7 @@ layout: page
 permalink: /publications
 title: publications
 description: publications relavant to the SmartLab network.
-years: [2022]
+year: [2021, 2022, 2023, 2024]
 nav: true
 ---
 <!-- _pages/publications.md -->

@@ -2,7 +2,7 @@
 title: Hochschule RheinMain
 subtitle: Sofrware Design and Quality
 
-image: hinkel_bw.jpg
+image: Hinkel_bw.jpg
 align: left
 contact: >
   Prof. Dr. Georg Hinkel
