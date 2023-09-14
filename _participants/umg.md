@@ -9,4 +9,4 @@ contact: >
   tim.meyer(at)med.uni-goettingen.de
 ---
 
-[Page](https://pharmacology.umg.eu/research/meyer-lab/)
+[Universitätsmedizin Göttingen](https://pharmacology.umg.eu/research/meyer-lab/)

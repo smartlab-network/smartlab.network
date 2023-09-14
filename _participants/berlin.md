@@ -9,4 +9,4 @@ contact: >
    schermeyer(at)tu-berlin.de 
 ---
 
-[Page](https://kiwi-biolab.de/team/)
+[kiwi-biolab](https://kiwi-biolab.de/team/)

@@ -9,6 +9,6 @@ contact: >
   pascal.mieville(at)epfl.ch
 ---
 
-[Page](https://people.epfl.ch/pascal.mieville)
+[EPFL](https://people.epfl.ch/pascal.mieville)
 
 

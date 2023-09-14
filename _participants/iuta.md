@@ -9,4 +9,4 @@ contact: >
   teutenberg(at)iuta.de
 ---
 
-[Page](https://www.iuta.de/ueber-iuta/)
+[IUTA](https://www.iuta.de/ueber-iuta/)

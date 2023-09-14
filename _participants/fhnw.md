@@ -9,4 +9,4 @@ contact: >
   johannes.mosbacher(at)fhnw.ch
 ---
 
-[Page](https://www.fhnw.ch/de/die-fhnw/hochschulen/lifesciences/institut-fuer-pharma-technology)
+[FHNW](https://www.fhnw.ch/de/die-fhnw/hochschulen/lifesciences/institut-fuer-pharma-technology)

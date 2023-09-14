@@ -9,7 +9,6 @@ contact: >
   kerstin.thurow(at)celisca.de
 ---
 
-[CELISCA](www.celisca.de)
+[CELISCA](http://www.celisca.de)
 <br/>
-[Kerstin Thurow](www.kerstinthurow.de)
-
+[Kerstin Thurow](http://www.kerstinthurow.de)

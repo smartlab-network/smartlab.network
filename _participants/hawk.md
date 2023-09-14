@@ -9,4 +9,4 @@ contact: >
   christoph.russmann(at)hawk.de
 ---
 
-[Page](https://www.hawk.de/de/hochschule/organisation-und-personen/personenverzeichnis/christoph-russmann)
+[HAWK Goettingen](https://www.hawk.de/de/hochschule/organisation-und-personen/personenverzeichnis/christoph-russmann)
