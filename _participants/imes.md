@@ -9,4 +9,4 @@ contact: >
   leon.budde(at)imes
 ---
 
-[Page](https://www.imes.uni-hannover.de/de/institut/team/m-sc-leon-budde)
+[Institut für Mechatronische Systeme](https://www.imes.uni-hannover.de/de/institut/team/m-sc-leon-budde)

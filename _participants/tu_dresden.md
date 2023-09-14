@@ -9,4 +9,4 @@ contact: >
    christoph.otto(at)​tu-dresden.de 
 ---
 
-[Page](https://tu-dresden.de/ing/maschinenwesen/int/das-institut/bioverfahrenstechnik-biotechnologie/SmartLab-Systeme)
+[Smartlab Systeme Dresden](https://tu-dresden.de/ing/maschinenwesen/int/das-institut/bioverfahrenstechnik-biotechnologie/SmartLab-Systeme)
