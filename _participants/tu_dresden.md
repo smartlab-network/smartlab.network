@@ -5,7 +5,7 @@ subtitle: Smartlab-Systeme
 image: otto.jpg
 align: left
 contact: >
-   Dipl.-Ing. Christoph Otto 
+   Christoph Otto 
    christoph.otto(at)​tu-dresden.de 
 ---
 
