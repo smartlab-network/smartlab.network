@@ -11,7 +11,7 @@ nav: true
 <!-- _pages/publications.md -->
 <div class="talks">
 
-{%- for page in site.talks reversed -%}
+{%- for page in site.talks -%}
   <div class="post">
         <header class="post-header">
           <h1 class="post-title">{{page.title}}</h1>
