@@ -47,7 +47,7 @@ nav: true
               <div class="address">
                 {{ page.location }}
               </div>
-
+            {%- endif %}
 
           </div>
 
