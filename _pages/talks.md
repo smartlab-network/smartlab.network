@@ -36,7 +36,7 @@ nav: true
 
             {%- if page.date %}              
                 <div class="address">
-                  {{ page.date }}
+                  {{ page.date | date_to_long_string }}
                   {%- if page.time %}
                      - {{ page.time }}
                   {%- endif %}                    
