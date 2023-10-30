@@ -1,12 +1,12 @@
 ---
-title: Universitätsmedizin Göttingen
-subtitle: Pharmakologie und Toxikologie
+title: Georg August Universität Göttingen
+subtitle: Digitalisierung in der Arbeitswelt
 
-image: Meyer.jpg
+image: nies.jpg
 align: left
 contact: >
-  Dr. Tim Meyer
-  tim.meyer(at)med.uni-goettingen.de
+  Prof. Dr. Sarah Nies
+  sarah.nies(at)uni-goettingen.de
 ---
 
-[Universitätsmedizin Göttingen](https://pharmacology.umg.eu/research/meyer-lab/)
+[Sarah Nies Group](https://www.uni-goettingen.de/de/prof.+dr.+sarah+nies/641065.html)
