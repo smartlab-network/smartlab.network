@@ -2,7 +2,7 @@
 title: Universitätsmedizin Göttingen
 subtitle: Pharmakologie und Toxikologie
 
-image: meyer.jpg
+image: meyer_t.jpg
 align: left
 contact: >
   Dr. Tim Meyer
