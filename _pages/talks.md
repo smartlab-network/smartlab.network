@@ -34,14 +34,19 @@ nav: true
               </div>
             {%- endif %}
 
-            {%- if page.date %}
-              
+            {%- if page.date %}              
                 <div class="address">
                   {{ page.date }}
                   {%- if page.time %}
                      - {{ page.time }}
                   {%- endif %}                    
                 </div>
+            {%- endif %}
+
+            {%- if page.location %}
+              <div class="address">
+                {{ page.location }}
+              </div>
             {%- endif %}
 
           </div>
