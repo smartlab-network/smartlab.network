@@ -1,7 +1,8 @@
 ---
-layout: page
-permalink: "impressum"
+layout: default
+permalink: /impressum
 title: Impressum
+nav: true
 impressum_path: /impressum
 
 ---
