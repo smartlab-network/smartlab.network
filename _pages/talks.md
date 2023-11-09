@@ -6,8 +6,6 @@ subtitle: Talks und Vorlesungen im Smartlab Network.
 description: Talks und Vorlesungen im Smartlab Network.
 years: [2023]
 nav: true
-impressum_path: /impressum
-
 ---
 
 <!-- _pages/publications.md -->
