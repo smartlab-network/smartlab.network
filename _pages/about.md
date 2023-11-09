@@ -3,6 +3,7 @@ layout: default
 title:  home
 permalink: /
 nav: false
+impressum_path: /impressum
 ---
 
 {% include figure.html
