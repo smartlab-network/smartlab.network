@@ -2,10 +2,9 @@
 layout: default
 permalink: /impressum
 title: Impressum
-nav: true
-impressum_path: /impressum
-
+nav: false
 ---
+
 <h2>Domaininhaber und Kontakt</h2>
 Tim Meyer<br/>
 Am Kalten Born 37<br/>

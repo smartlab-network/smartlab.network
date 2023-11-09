@@ -3,8 +3,6 @@ layout: default
 title: partner
 permalink: /partner
 nav: true
-impressum_path: /impressum
-
 ---
 
 <h1> Our Partners: </h1>
@@ -23,6 +21,7 @@ impressum_path: /impressum
         </header>
 
         <article style="padding-bottom: 5ex;">
+
           <div class="profile float-left">
               {% assign image_path = page.image | prepend: 'assets/img/' %}
 
