@@ -2,8 +2,7 @@
 layout: default
 permalink: /impressum
 title: Impressum
-nav: true
-impressum_path: /impressum
+nav: false
 
 ---
 <h2>Domaininhaber und Kontakt</h2>
