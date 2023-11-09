@@ -1,27 +1,29 @@
     {% if site.footer_fixed %}
 
-    <footer class="fixed-bottom">
-      <div class="container mt-0">
-          <table>
-              <tr>
-                  <td>
-                      &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
-                  </td>
-                  {%- if site.impressum_path -%}
-                    <td>
-                      <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
-                    </td>
-                  {%- endif -%}
+<footer class="fixed-bottom">
+    &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+    <br>
+    <div class="container mt-0">
+        <table>
+            <tr>
+                <td>
+                    &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+                </td>
+                {%- if site.impressum_path -%}
+                <td>
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+                </td>
+                {%- endif -%}
 
-                  {%- if site.last_updated -%}
-                    <td>
-                      Last updated: {{ "now" | date: '%B %d, %Y' }}.
-                    </td>
-                  {%- endif %}
-              </tr>
-          </table>
-      </div>
-    </footer>
+                {%- if site.last_updated -%}
+                <td>
+                    Last updated: {{ "now" | date: '%B %d, %Y' }}.
+                </td>
+                {%- endif %}
+            </tr>
+        </table>
+    </div>
+</footer>
 
     {%- else -%}
 
