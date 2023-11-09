@@ -3,6 +3,8 @@ layout: default
 title: partner
 permalink: /partner
 nav: true
+impressum_path: /impressum
+
 ---
 
 <h1> Our Partners: </h1>

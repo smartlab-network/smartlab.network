@@ -3,6 +3,8 @@ layout: default
 title: participants
 permalink: /participants
 nav: true
+impressum_path: /impressum
+
 ---
 
 {% for page in site.participants %}
