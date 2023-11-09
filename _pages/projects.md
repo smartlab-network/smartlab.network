@@ -4,8 +4,6 @@ title: projects
 subtitle: Our ongoing and passed projects
 permalink: /projects
 nav: true
-impressum_path: /impressum
-
 ---
 
 <h1>Ongoing Projects</h1>

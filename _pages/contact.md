@@ -4,7 +4,6 @@ title:  contact
 permalink: /contact
 nav: true
 nav_pos: 1
-impressum_path: /impressum
 
 ---
 
