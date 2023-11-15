@@ -4,9 +4,9 @@ subtitle: Sofrware Design and Quality
 
 image: hinkel_g.jpg
 align: left
-contact: >
-  Prof. Dr. Georg Hinkel
-  Georg.Hinkel(at)hs-rm.de
+name: Prof. Dr. Georg Hinkel
+email: Georg.Hinkel@hs-rm.de
+
 ---
 
 [HS RheinMain](https://www.hs-rm.de/de/hochschule/personen/hinkel-georg)
