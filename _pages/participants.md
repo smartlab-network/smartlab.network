@@ -32,7 +32,7 @@ nav: true
 
             {%- if page.email -%}
                 <div class="address">
-                    [contact](mailto:{{ page.email }})
+                    <a href="mailto:{{ site.email }}">Contact</a>                    
                 </div>
             {%- endif -%}
 
