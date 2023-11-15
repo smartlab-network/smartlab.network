@@ -12,8 +12,6 @@ nav: true
 		  <p>{{page.subtitle}}</p>
         </header>
 
-
-
         <article style="padding-bottom: 5ex;">
           <div class="profile float-{%- if page.align == 'left' -%}left{%- else -%}right{%- endif -%}">
               {%- assign image_path = page.image | prepend: 'assets/img/' -%}
@@ -24,10 +22,23 @@ nav: true
                 alt=page.image
                 max-width=200 -%}
 
+            {%- if page.name -%}
+                <div class="address">
+                    {{ page.name }}
+                </div>
+            {%- endif -%}
+
+            {%- if page.email -%}
+                <div class="address">
+                    <a href="mailto:{{ page.email }}">Contact</a>                    
+                </div>
+            {%- endif -%}
+
+            
             {%- if page.contact -%}
-            <div class="address">
-              {{ page.contact }}
-            </div>
+                <div class="address">
+                    {{ page.contact }}
+                </div>
             {%- endif -%}
 
 

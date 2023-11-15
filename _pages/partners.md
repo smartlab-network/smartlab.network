@@ -31,13 +31,19 @@ nav: true
                 alt=page.image
                 max-width=200 -%}
           </div>
+          
           {% if page.contact %}
             <div class="address">
-              Contact: {{ page.contact }}<br/>
-              eMail: {{ page.email }}<br/>
+              Contact: <a href="mailto:{{ page.email }}"> {{ page.contact }} </a> <br/>
+            </div>
+          {%- endif -%}
+                    
+          {% if page.homepage %}
+            <div class="address">
               web: <a href="{{page.homepage}}">{{page.title}}</a>
             </div>
           {% endif %}
+          
           <div class="clearfix" style="text-align: justify;">
             {{ page.content }}
           </div>

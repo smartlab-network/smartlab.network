@@ -9,15 +9,18 @@ nav: true
 ---
 
 <!-- _pages/publications.md -->
+
 <div class="talks">
 
 {%- for page in site.talks -%}
   <div class="post">
+
         <header class="post-header">
           <h1 class="post-title">{{page.title}}</h1>
 		  <p>{{page.subtitle}}</p>
         </header>
 
+        
         <article style="padding-bottom: 5ex;">
           <div class="profile float-{%- if page.align == 'left' -%}left{%- else -%}right{%- endif -%}">
               {%- assign image_path = page.image | prepend: 'assets/img/' -%}
@@ -36,11 +39,20 @@ nav: true
 
             {%- if page.date %}              
                 <div class="address">
-                  {{ page.date | date_to_long_string }}
+                  {{ page.date | date_to_string }}
                   {%- if page.time %}
                      - {{ page.time }}
                   {%- endif %}                    
                 </div>
+            {%- endif %}
+
+
+            {%- if page.online %}
+                [Online]({{ page.online }})
+            {%- endif %}
+
+            {%- if page.registration %}
+                [Registration](page.registration)
             {%- endif %}
 
             {%- if page.location %}

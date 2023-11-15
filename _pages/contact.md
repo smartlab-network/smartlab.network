@@ -13,4 +13,5 @@ nav_pos: 1
    alt=page.image
    max-width=200px -%}
 
-Automatisierung hat viele Facetten und betrifft sowohl Material als auch Datenfluesse.
+Automatisierung hat viele Facetten und betrifft sowohl Material als auch Datenfl&uuml;sse.
+<a href="mailto:{{ info@smartlab.network }}">Contact</a>
