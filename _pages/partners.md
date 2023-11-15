@@ -21,6 +21,7 @@ nav: true
         </header>
 
         <article style="padding-bottom: 5ex;">
+
           <div class="profile float-left">
               {% assign image_path = page.image | prepend: 'assets/img/' %}
 
