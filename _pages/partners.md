@@ -34,16 +34,10 @@ nav: true
           
           {% if page.contact %}
             <div class="address">
-              Contact: {{ page.contact }}<br/>
+              Contact: <a href="mailto:{{ page.email }}"> {{ page.contact }} </a> <br/>
             </div>
           {%- endif -%}
-          
-          {%- if page.email -%}
-            <div class="address">
-              <a href="mailto:{{ page.email }}">Contact</a>                    
-            </div>
-          {%- endif -%}
-          
+                    
           {% if page.homepage %}
             <div class="address">
               web: <a href="{{page.homepage}}">{{page.title}}</a>
