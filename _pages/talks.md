@@ -48,11 +48,11 @@ nav: true
 
 
             {%- if page.online %}
-                [Online]({{ page.online }})
+                <a href="{{ page.online }}">Online link</a>                
             {%- endif %}
 
             {%- if page.registration %}
-                [Registration](page.registration)
+                <a href="{{ page.registration }}">Registration link</a>                                
             {%- endif %}
 
             {%- if page.location %}
