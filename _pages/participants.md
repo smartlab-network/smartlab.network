@@ -24,10 +24,23 @@ nav: true
                 alt=page.image
                 max-width=200 -%}
 
+            {%- if page.name -%}
+                <div class="address">
+                    {{ page.name }}
+                </div>
+            {%- endif -%}
+
+            {%- if page.email -%}
+                <div class="address">
+                    [contact]({{ page.email }})
+                </div>
+            {%- endif -%}
+
+            
             {%- if page.contact -%}
-            <div class="address">
-              {{ page.contact }}
-            </div>
+                <div class="address">
+                    {{ page.contact }}
+                </div>
             {%- endif -%}
 
 

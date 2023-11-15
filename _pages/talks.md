@@ -39,7 +39,7 @@ nav: true
 
             {%- if page.date %}              
                 <div class="address">
-                  {{ page.date | date_to_long_string }}
+                  {{ page.date | date_to_string }}
                   {%- if page.time %}
                      - {{ page.time }}
                   {%- endif %}                    
@@ -48,7 +48,7 @@ nav: true
 
 
             {%- if page.online %}
-                [Online](page.online)
+                [Online]({{ page.online }})
             {%- endif %}
 
             {%- if page.registration %}
