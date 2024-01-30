@@ -2,8 +2,8 @@
 layout: default
 permalink: /talks
 title: talks
-subtitle: Talks und Vorlesungen im Smartlab Network.
-description: Talks und Vorlesungen im Smartlab Network.
+subtitle: Talks und Vorlesungen im smartlab.network.
+description: Talks und Vorlesungen im smartlab.network.
 years: [2023]
 nav: true
 ---
@@ -12,9 +12,9 @@ nav: true
 
 <div class="talks">
 
-{%- for page in site.talks -%}
-  <div class="post">
+{%- for page in site.talks reversed -%}
 
+  <div class="post">
         <header class="post-header">
           <h1 class="post-title">{{page.title}}</h1>
 		  <p>{{page.subtitle}}</p>
@@ -48,11 +48,11 @@ nav: true
 
 
             {%- if page.online %}
-                [Online]({{ page.online }})
+                <a href="{{ page.online }}">Online link</a>                
             {%- endif %}
 
             {%- if page.registration %}
-                [Registration](page.registration)
+                <a href="{{ page.registration }}">Registration link</a>                                
             {%- endif %}
 
             {%- if page.location %}
