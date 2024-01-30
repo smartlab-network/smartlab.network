@@ -4,9 +4,9 @@ subtitle: KIWI Biolab
 
 image: schermeyer.jpg
 align: left
-contact: >
-  Dr. Marie-Therese Schermeyer
-   schermeyer(at)tu-berlin.de 
+name: Dr. Marie-Therese Schermeyer
+email: schermeyer@tu-berlin.de 
+
 ---
 
-[Page](https://kiwi-biolab.de/team/)
+[kiwi-biolab](https://kiwi-biolab.de/team/)

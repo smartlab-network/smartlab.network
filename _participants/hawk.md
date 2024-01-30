@@ -4,9 +4,8 @@ subtitle: Smartlab Goettingen
 
 image: russmann.jpg
 align: left
-contact: >
-  Prof. Christoph Russmann
-  christoph.russmann(at)hawk.de
+name: Prof. Christoph Russmann
+email: christoph.russmann@hawk.de
 ---
 
-[Page](https://www.hawk.de/de/hochschule/organisation-und-personen/personenverzeichnis/christoph-russmann)
+[HAWK Goettingen](https://www.hawk.de/de/hochschule/organisation-und-personen/personenverzeichnis/christoph-russmann)
