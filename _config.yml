@@ -8,15 +8,15 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   SmartLab.network
-keywords: SmartLab.exchange
+keywords: Smartlab.network
 
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: de # the language of your site (for example: en, fr, cn, ru, etc.)
 #icon:️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://smartlab.exchange
-baseurl: https://smartlab.exchange
+url: https://smartlab.network
+#baseurl: /
 last_updated: true # set to true if you want to display last updated in the footer
-impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path: /impressum # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -60,7 +60,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: smartlab-network # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username

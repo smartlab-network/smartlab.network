@@ -5,13 +5,7 @@ permalink: /participants
 nav: true
 ---
 
-<figure>
-  <picture>
-    <img   src="/assets/img/logo-projection.jpg" max-width=200 >
-  </picture>  
-</figure>
-
-{%- for page in site.participants -%}
+{% for page in site.participants %}
   <div class="post">
         <header class="post-header">
           <h2 class="post-title">{{page.title}}</h2>
@@ -25,19 +19,40 @@ nav: true
               {% include figure.html
                 path=image_path
                 class="img-fluid z-depth-1 rounded"
-                alt=page.image -%}
+                alt=page.image
+                max-width=200 -%}
 
-            {%- if page.contact %}
-            <div class="address">
-              {{ page.contact }}
-            </div>
-            {%- endif %}
+            {%- if page.name -%}
+                <div class="address">
+                    {{ page.name }}
+                </div>
+            {%- endif -%}
+
+            {%- if page.email -%}
+                <div class="address">
+                    <a href="mailto:{{ page.email }}">Contact</a>                    
+                </div>
+            {%- endif -%}
+
+            
+            {%- if page.contact -%}
+                <div class="address">
+                    {{ page.contact }}
+                </div>
+            {%- endif -%}
+
+
           </div>
 
           <div class="clearfix" style="text-align: justify;">
             {{ page.content }}
           </div>
-		  <br/>
+
+          {%- if page.contact -%}
+          <div class="address">
+            {{ page.contact }}
+          </div>
+          {%- endif -%}
 	</article>
 </div>
 {%- endfor %}

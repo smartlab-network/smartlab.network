@@ -2,20 +2,14 @@
 layout: default
 title:  home
 permalink: /
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-nav: true
-profile:
-  align: right
-  image: smartlab-network-logo.png
-
-news: true
+nav: false
 ---
 
-<figure>
-  <picture>
-    <img   src="/assets/img/logo-chrome.jpg" max-width=200 >
-  </picture>  
-</figure>
+{% include figure.html
+   path='assets/img/logo-chrome.jpg'
+   class="img-fluid z-depth-1 rounded"
+   alt=page.image
+   width=200 %}
 
 
 
@@ -24,3 +18,8 @@ Um diesen Bedarf zu schliessen stellen vor allem technische Hochschulen vermehrt
 Ziel des smartlab.networks ist es die ausbildenden Hochschulen und Anwender sowie  Hardware- und Softwareanbeiter zu vernetzen. Ziel ist es sowohl die Ausbildung effizienter
 und anwendungsorientierter zu machen als auch Einstiegsh&uuml;rden für Forschungslabore zu senken.
 
+{% include figure.html
+   path='assets/img/arbeitszelle.jpg'
+   class="img-fluid z-depth-1 rounded"
+   alt=page.image
+   width=200 %}

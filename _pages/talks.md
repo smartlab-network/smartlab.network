@@ -2,22 +2,25 @@
 layout: default
 permalink: /talks
 title: talks
-subtitle: Talks und Vorlesungen im Smartlab Network.
-description: Talks und Vorlesungen im Smartlab Network.
+subtitle: Talks und Vorlesungen im smartlab.network.
+description: Talks und Vorlesungen im smartlab.network.
 years: [2023]
 nav: true
 ---
 
 <!-- _pages/publications.md -->
+
 <div class="talks">
 
 {%- for page in site.talks reversed -%}
+
   <div class="post">
         <header class="post-header">
           <h1 class="post-title">{{page.title}}</h1>
 		  <p>{{page.subtitle}}</p>
         </header>
 
+        
         <article style="padding-bottom: 5ex;">
           <div class="profile float-{%- if page.align == 'left' -%}left{%- else -%}right{%- endif -%}">
               {%- assign image_path = page.image | prepend: 'assets/img/' -%}
@@ -34,14 +37,28 @@ nav: true
               </div>
             {%- endif %}
 
-            {%- if page.date %}
-              
+            {%- if page.date %}              
                 <div class="address">
-                  {{ page.date }}
+                  {{ page.date | date_to_string }}
                   {%- if page.time %}
                      - {{ page.time }}
                   {%- endif %}                    
                 </div>
+            {%- endif %}
+
+
+            {%- if page.online %}
+                <a href="{{ page.online }}">Online link</a>                
+            {%- endif %}
+
+            {%- if page.registration %}
+                <a href="{{ page.registration }}">Registration link</a>                                
+            {%- endif %}
+
+            {%- if page.location %}
+              <div class="address">
+                {{ page.location }}
+              </div>
             {%- endif %}
 
           </div>

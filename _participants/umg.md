@@ -2,11 +2,12 @@
 title: Universitätsmedizin Göttingen
 subtitle: Pharmakologie und Toxikologie
 
-image: Meyer.jpg
+image: meyer_t.jpg
 align: left
-contact: >
-  Dr. Tim Meyer
-  tim.meyer(at)med.uni-goettingen.de
+name: Dr. Tim Meyer
+email: tim.meyer@med.uni-goettingen.de
+web: https://pharmacology.umg.eu/research/meyer-lab/
+
 ---
 
-[Page](https://pharmacology.umg.eu/research/meyer-lab/)
+[Universitätsmedizin Göttingen](https://pharmacology.umg.eu/research/meyer-lab/)
