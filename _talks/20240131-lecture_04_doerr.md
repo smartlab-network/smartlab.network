@@ -1,6 +1,6 @@
 ---
-title: EPFL Lausanne
-subtitle: On the use of algorithms in an automated lab
+title: University Greifswald
+subtitle: Semantics, knowledge Graphs and Labautomation
 
 image: doerr_bw.jpg
 
@@ -12,3 +12,5 @@ time: 16h00-17h00
 online: https://meet.gwdg.de/b/tim-a0k-2vh-3m5
 
 ---
+I will cover some internals and background of the LARA automation suite 
+for high-throughput protein screening (https://lnkd.in/eKFU3bv5) and the benefits of Sila2 based communication. 
