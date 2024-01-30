@@ -12,7 +12,7 @@ nav: true
 
 <div class="talks">
 
-{%- for page in site.talks -%}
+{%- for page in site.talks reversed -%}
 
   <div class="post">
         <header class="post-header">
