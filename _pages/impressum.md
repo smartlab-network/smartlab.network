@@ -1,8 +1,10 @@
 ---
 layout: default
-permalink: /impressum
 title: Impressum
-nav: false
+permalink: /impressum
+nav: true
+nav_pos: 1
+
 ---
 
 <h2>Domaininhaber und Kontakt</h2>
