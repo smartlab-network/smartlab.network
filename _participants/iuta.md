@@ -4,9 +4,8 @@ subtitle: Analytik & Messtechnik
 
 image: teutenberg.jpg
 align: left
-contact: >
-  Dr. rer.net. Thorsten Teutenberg
-  teutenberg(at)iuta.de
+name: Dr. rer.net. Thorsten Teutenberg
+email: teutenberg@iuta.de
 ---
 
-[Page](https://www.iuta.de/ueber-iuta/)
+[IUTA](https://www.iuta.de/ueber-iuta/)

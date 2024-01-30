@@ -4,11 +4,10 @@ subtitle: Catalysis Hub
 
 image: mieville.jpg
 align: left
-contact: >
-  Prof. Pascal Mieville
-  pascal.mieville(at)epfl.ch
+name: Prof. Pascal Mieville
+email: pascal.mieville@epfl.ch
 ---
 
-[Page](https://people.epfl.ch/pascal.mieville)
+[EPFL](https://people.epfl.ch/pascal.mieville)
 
 
