@@ -1,5 +1,5 @@
 ---
-title: Technische Universität Dresden
+title: Technische Universität Dresden (TUD) 
 subtitle: Smartlab-Systeme
 
 image: otto.jpg
@@ -9,4 +9,6 @@ name: Dipl.-Ing. Christoph Otto
 email: christoph.otto@​tu-dresden.de 
 ---
 
-[Smartlab Systeme Dresden](https://tu-dresden.de/ing/maschinenwesen/int/das-institut/bioverfahrenstechnik-biotechnologie/SmartLab-Systeme)
+[Page](https://tu-dresden.de/ing/maschinenwesen/int/das-institut/bioverfahrenstechnik-biotechnologie/SmartLab-Systeme)
+
+
