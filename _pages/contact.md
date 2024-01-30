@@ -2,8 +2,8 @@
 layout: default
 title:  contact
 permalink: /contact
-nav: true
-nav_pos: 1
+nav: false
+
 
 ---
 
