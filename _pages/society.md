@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  society
-permalink: /
-nav: false
+permalink: /society
+nav: true
 ---
 
 {% include figure.html
