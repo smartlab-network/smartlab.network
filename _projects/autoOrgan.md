@@ -4,6 +4,11 @@ subtitle: Nachhaltigkeit und Tierschutz
 
 image: autoorgan.jpg
 
+start: 1.4.2024
+end: 31.3.2027
+duration: 36M
+
+
 align: left
 contact: >
   Leon Budde
