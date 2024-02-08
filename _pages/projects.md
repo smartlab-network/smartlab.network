@@ -12,7 +12,7 @@ Der einfache Wunsch (s)ein Labor zu automatisieren f&uuml;hrt Wissenschaftler:in
 schnell zu Herausforderungen. 
 Nach dem Divide-and-Conquer Ansatz brechen wir die Problemstellung auf SMARTe-Projekte
 herunter, das heisst die Einzelprojekte sind *s*pezifisch, *m*essbar, *a*usf&uuml;hrbar,
-*r*ealistisch, und *t*erminiert und können von Netzwerkmitgliedern und Partnern im
+*r*ealistisch, und *t*erminiert und k&ouml;nnen von Netzwerkmitgliedern und Partnern im
 Rahmen von Forschungsprojekten, Abschlussarbeiten oder im Auftrag abgearbeitet werden.
 Die folgende Liste gibt einen &Uuml;berblick &uuml;ber existierende und geplante Projekte
 und soll einen Anreiz geben im Netzwerk eigene Projekte vorzuschlagen.
