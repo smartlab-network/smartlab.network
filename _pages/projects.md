@@ -14,8 +14,10 @@ Nach dem Divide-and-Conquer Ansatz brechen wir die Problemstellung auf SMARTe-Pr
 herunter, das heisst die Einzelprojekte sind <b>s</b>pezifisch, <b>m</b>essbar, <b>a</b>usf&uuml;hrbar,
 <b>r</b>ealistisch, und <b>t</b>erminiert und k&ouml;nnen von Netzwerkmitgliedern und Partnern im
 Rahmen von Forschungsprojekten, Abschlussarbeiten oder im Auftrag abgearbeitet werden.
+<p>
 Die folgende Liste gibt einen &Uuml;berblick &uuml;ber existierende und geplante Projekte
 und soll einen Anreiz geben im Netzwerk eigene Projekte vorzuschlagen.
+<p>
 
 
 {%- for page in site.projects -%}
