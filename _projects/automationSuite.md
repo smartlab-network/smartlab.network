@@ -5,7 +5,12 @@ subtitle: OpenSource Laborautomatisierung
 image: automationSuite.jpg
 
 align: left
-contact: Robert Soeldner
+
+start: 1.2.2024
+end: 31.9.2027
+duration: 8M
+
+contact: Prof. Georg Hinkel
 homepage: https://github.com/smartlab-network
 
 ---
