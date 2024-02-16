@@ -50,7 +50,7 @@ und soll einen Anreiz geben im Netzwerk eigene Projekte vorzuschlagen.
                   {%- endif %}
 
                   {%- if page.duration %}
-                       ({ page.duration })
+                       {{ page.duration }}
                   {%- endif %}
                 </div>            
             {%- endif %}
