@@ -4,7 +4,7 @@ permalink: /talks
 title: talks
 subtitle: Talks und Vorlesungen im smartlab.network.
 description: Talks und Vorlesungen im smartlab.network.
-year: [2024]
+years: [2024]
 nav: true
 ---
 

@@ -1,4 +1,4 @@
---
+---
 title: Center for Life-Science Automation
 subtitle: Automation Strategies or how to find the right Concept for your Automation Project?
 image: thurow_bw.jpg
