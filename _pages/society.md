@@ -12,11 +12,12 @@ nav: true
    width=200 %}
 
 
-<h2>Gesellschaft für Laborautomatisierung und Digitalisierung e.V. (GLAD)</h2>
-The smartlab.network is part of the "Gesellschaft für Laborautomatisierung
-und Digitalisierung e.V.", a non-profit Organisation located in G&ouml;ttingen, Germany.
+<h2>Gesellschaft f&uuml;r Laborautomatisierung und Digitalisierung e.V. (GLAD)</h2>
+The smartlab.network is part of the Gesellschaft f&uuml;r Laborautomatisierung
+und Digitalisierung e.V., a non-profit Organisation located in G&ouml;ttingen, Germany.
 
 Steuernummer: 20/206/32882
+
 Vereinsregister Nr.: 202363 (Amtsgericht G&ouml;ttingen)
 
 <h2 id="m56">Kontaktm&ouml;glichkeiten</h2>
