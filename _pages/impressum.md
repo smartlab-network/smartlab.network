@@ -8,7 +8,7 @@ nav_pos: 1
 ---
 
 <h2>Domaininhaber und Kontakt</h2>
-Gesellschaft f&uuml;r Laborautomatisierung und Digitalisierung e.V.
+Gesellschaft f&uuml;r Laborautomatisierung und Digitalisierung e.V.<br/>
 c/o Tim Meyer<br/>
 37085 G&ouml;ttingen<br/>
 Deutschland
