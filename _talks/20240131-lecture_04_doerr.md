@@ -9,7 +9,8 @@ contact: Mark Doerr
 homepage: https://aiforlife.uni-greifswald.de/dr-mark-dorr-en/
 date: 31.1.2024
 time: 16h00-17h00
-online: https://meet.gwdg.de/b/tim-a0k-2vh-3m5
+
+youtubeId: nIwzZpbCxg4
 
 ---
 I will cover some internals and background of the LARA automation suite 
