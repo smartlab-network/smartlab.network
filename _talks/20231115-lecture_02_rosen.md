@@ -9,7 +9,7 @@ contact: Dan Rosen
 homepage: https://www.katalog.uu.se/profile/?id=N19-2667
 date: 15. November 2023
 time: 16h00-17h00
-online: https://meet.gwdg.de/b/tim-a0k-2vh-3m5
+
 youtubeId: SAhNYuM-O3E
 ---
 

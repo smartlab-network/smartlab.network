@@ -7,7 +7,7 @@ contact: Kerstin Thurow
 homepage: https://s.gwdg.de/HOtQHa
 date: 21.02.2024
 time: 16h00-17h00
-online: https://meet.gwdg.de/b/tim-a0k-2vh-3m5
+
 youtubeId: RZOqvQTPXkw
 
 ---
