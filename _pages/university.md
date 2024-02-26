@@ -3,6 +3,9 @@ layout: default
 title:  smartlab.university
 permalink: /university
 nav: true
+
+youtubeId: RZOqvQTPXkw
+
 ---
 
 {% include figure.html
@@ -16,3 +19,5 @@ nav: true
 
 The smartlab university develops and provides continuous learning programs in and around smartlabs.
 ranging from the online lectures in our smartlab.lecure series over Web- and Video-turorials to Hackathons.
+
+{% include youtubePlayer.html id=page.youtubeId %}
