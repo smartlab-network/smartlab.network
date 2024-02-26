@@ -61,13 +61,17 @@ nav: true
                 {{ page.location }}
               </div>
             {%- endif %}
-
           </div>
 
           <div class="clearfix" style="text-align: justify;">
             {{ page.content }}
           </div>
 		  <br/>
+
+          {%- if page.youtubeId %}
+            {% include youtubePlayer.html id=page.youtubeId %}
+          {%- endif %}
+
 	</article>
 </div>
 {%- endfor %}
