@@ -1,7 +1,7 @@
 ---
 title: Opentrons Labworks
 subtitle: How to bring Lab Automation into the classroom.
-image: mcdaniel_art.png
+image: mcdaniel_art.jpg
 align: left
 contact: Kennedy McDaniel
 homepage: https://www.kennedymcdaniel.com/
