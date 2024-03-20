@@ -7,7 +7,7 @@ contact: Kennedy McDaniel
 homepage: https://www.kennedymcdaniel.com/
 date: 20.03.2024
 time: 16h00-17h00
-location: https://meet.google.com/bss-vztb-zeb
+online: https://meet.google.com/bss-vztb-zeb
 
 ---
 
