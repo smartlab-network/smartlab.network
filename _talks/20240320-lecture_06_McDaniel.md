@@ -1,14 +1,13 @@
 ---
 title: Opentrons Labworks
 subtitle: How to bring Lab Automation into the classroom.
-image: mcDaniel_art.png
+image: mcdaniel_art.jpg
 align: left
 contact: Kennedy McDaniel
 homepage: https://www.kennedymcdaniel.com/
 date: 20.03.2024
 time: 16h00-17h00
-location: smartlab.university
-youtubeId: FZEw-gRic88
+location: https://meet.google.com/bss-vztb-zeb
 
 ---
 
