@@ -1,7 +1,7 @@
 ---
 title: IUTA Duisburg
 subtitle: StreamFind, an innovative data processing workflow designer
-image: cunha_art.jpg
+image: cunha.jpg
 align: left
 contact: Ricardo Cunha
 homepage: https://www.linkedin.com/in/ricardo-cunha-755308152
